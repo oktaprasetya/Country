@@ -1,3 +1,4 @@
+<script>
 const universities = [
   { name: "Australian National University", image: "https://bit.ly/3ZvoSmx", link: "https://australia.starshipeducation.com/p/australian-national-university-anu.html" },
   { name: "University of New South Wales", image: "https://bit.ly/3LyZSFa", link: "https://australia.starshipeducation.com/p/universitas-new-south-wales-unsw.html"},
@@ -495,3 +496,6 @@ const universities = [
   
   // Tambahkan universitas lainnya di sini
 ];
+
+
+</script>
