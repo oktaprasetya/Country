@@ -1,4 +1,5 @@
-[{
+[
+   {
         name: "Australian National University",
         image: "https://bit.ly/3ZvoSmx",
         link: "https://australia.starshipeducation.com/p/australian-national-university-anu.html"
@@ -2462,6 +2463,6 @@
         name: "Yeronga State High School",
         image: "https://bit.ly/3Ez1Txu",
         link: "https://yerongashs.eq.edu.au/"
-    },
+    }
 
 ];
