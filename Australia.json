@@ -491,8 +491,7 @@
   { "name": "Willunga High School", "image": "https://bit.ly/3sQLVft", "link": "https://www.whs.sa.edu.au/"},
   { "name": "Woodville High School", "image": "https://bit.ly/3Zf6xu8", "link": "https://woodvillehigh.sa.edu.au/"},
   { "name": "Yeppoon State High School", "image": "https://bit.ly/3RgKSPX", "link": "https://yeppoonshs.eq.edu.au/"},
-  { "name": "Yeronga State High School", "image": "https://bit.ly/3Ez1Txu", "link": "https://yerongashs.eq.edu.au/"},
+  { "name": "Yeronga State High School", "image": "https://bit.ly/3Ez1Txu", "link": "https://yerongashs.eq.edu.au/"}
   
-  // Tambahkan universitas lainnya di sini
-];
+]
 
