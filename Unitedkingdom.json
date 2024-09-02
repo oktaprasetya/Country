@@ -1,6 +1,7 @@
 [
   { "name": "Abbey College", "image": "http://tiny.cc/ss-AbbeyCollege", "link": "https://abbeycollege.co.uk/" },
-  { "name": "Abbotsholme School", "image": "http://tiny.cc/ss-AbbeyCollege", "link": "http://tiny.cc/ss-AbbotsholmeSchool" }
+  { "name": "Abbotsholme School", "image": "http://tiny.cc/ss-AbbotsholmeSchool", "link": "https://www.abbotsholme.co.uk/" },
+  { "name": "Abertay University", "image": "http://tiny.cc/SS-Abertayuniversity", "link": "https://www.abertay.ac.uk/" },
 
 
 
