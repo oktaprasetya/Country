@@ -12,32 +12,37 @@
   {
     "name": "United Kingdom",
     "image": "http://tiny.cc/SS-UK",
-    "link": "https://www.starshipeducation.com/p/united-kingdom.html"
+    "link": "https://uk.starshipeducation.com"
   },
   {
     "name": "United States",
     "image": "http://tiny.cc/SS-USA",
-    "link": "https://www.starshipeducation.com/p/united-states.html"
+    "link": "https://usa.starshipeducation.com"
+  },
+  {
+    "name": "Canada",
+    "image": "http://tiny.cc/SS-Canada",
+    "link": "https://canada.starshipeducation.com"
   },
   {
     "name": "China",
     "image": "http://tiny.cc/SS-China",
-    "link": "https://www.starshipeducation.com/p/china_31.html"
+    "link": "https://china.starshipeducation.com"
   },
   {
     "name": "Singapore",
     "image": "https://bit.ly/3NBcbSA",
-    "link": "https://www.starshipeducation.com/p/singapore.html"
+    "link": "Singapore.starshipeducation.com"
   },
   {
     "name": "Malaysia",
     "image": "https://bit.ly/3ttazDv",
-    "link": "https://www.starshipeducation.com/p/malaysia.html"
+    "link": "malaysia.starshipeducation.com"
   },
   {
     "name": "South Korea",
     "image": "https://bit.ly/3TBvSgO",
-    "link": "https://www.starshipeducation.com/p/south-korea.html"
+    "link": "korea.starshipeducation.com"
   },
   {
     "name": "Angola",
@@ -68,11 +73,6 @@
     "name": "Cambodia",
     "image": "https://bit.ly/3v5pnZn",
     "link": "https://www.starshipeducation.com/p/under-construction.html"
-  },
-  {
-    "name": "Canada",
-    "image": "https://bit.ly/3S1cPeV",
-    "link": "https://www.starshipeducation.com/p/canada.html"
   },
   {
     "name": "Croatia",
