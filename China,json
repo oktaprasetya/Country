@@ -1,9 +1,19 @@
 [
-  { "name": "Chongqing College of International Business and Economics", "image": "http://tiny.cc/SS-ChongqingCollege", "link": "https://www.ccibe.edu.cn"},
   { "name": "Daqing Normal University", "image": "http://tiny.cc/SS-Daqing", "link": "https://www.dqsy.net/"},
+  { "name": "Liaoning University (LNU)", "image": "http://tiny.cc/SS-Liaoning1", "link": "https://enweb.lnu.edu.cn/"},
+  { "name": "Wuhan Sports University", "image": "http://tiny.cc/SS-WuhanSports", "link": "https://en.whsu.edu.cn/"},
+  { "name": "Wuhan Textile University", "image": "http://tiny.cc/SS-wuhantextile", "link": "https://english.wtu.edu.cn/"},
   { "name": "Liaoning Petrochemical University", "image": "http://tiny.cc/SS-Liaoning", "link": "https://www.lnpuchiwest.cn/"},
+  { "name": "Hubei University of Economics (HBUE)", "image": "http://tiny.cc/SS-HBUE", "link": "https://english.hbue.edu.cn/3327/listm.htm"},
+  { "name": "Nanjing Tech University", "image": "http://tiny.cc/SS-NanjingTech", "link": "https://en.njtech.edu.cn/"},
+  { "name": "Huzhou Vocational and Technical College", "image": "http://tiny.cc/SS-HVTC", "link": "https://www.huvtc.edu.cn/"},
   { "name": "Communication University of China Nanjing (CUCN),", "image": "http://tiny.cc/SS-CUCN", "link": "https://en.cuc.edu.cn/"},
-  { "name": "Liaoning University (LNU)", "image": "http://tiny.cc/SS-Liaoning1", "link": "https://enweb.lnu.edu.cn/"}
+  { "name": "Chongqing College of International Business and Economics", "image": "http://tiny.cc/SS-ChongqingCollege", "link": "https://www.ccibe.edu.cn"},
+  { "name": "Zhejiang University of Technology", "image": "http://tiny.cc/SS-Zhejianguniversity", "link": "https://www.zjut.edu.cn/"},
+  { "name": "Hunan University of Technology (HUT)", "image": "http://tiny.cc/SS-HunanHUT", "link": "https://www.hut.edu.cn/"},
+  { "name": "Taiyuan University of Technology (TYUT)", "image": "http://tiny.cc/SS-TYUT", "link": "https://english.tyut.edu.cn/"}
+
+
 
 
 
