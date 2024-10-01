@@ -9,7 +9,10 @@
   { "name": "Kaplan Singapore", "image": "http://tiny.cc/SS-kaplan", "link": "https://www.kaplan.com.sg/"},
   { "name": "PSB Academy", "image": "http://tiny.cc/SS-psb", "link": "https://www.psb-academy.edu.sg/"},
   { "name": "James Cook University Singapore (JCU)", "image": "http://tiny.cc/SS-JCU", "link": "https://www.jcu.edu.sg/"},
-  { "name": "Curtin University Singapore", "image": "http://tiny.cc/SS-curtinsing", "link": "https://curtin.edu.sg/"}
+  { "name": "Curtin University Singapore", "image": "http://tiny.cc/SS-curtinsing", "link": "https://curtin.edu.sg/"},
+  { "name": "Birmingham City University", "image": "http://tiny.cc/SS-birminghamsing", "link": "https://www.bcu.ac.uk/international/bcu-in-your-country/singapore"},
+  { "name": "Monash College Singapore", "image": "http://tiny.cc/ss-monashsing", "link": "https://www.monashcollege.edu.au/about-us/our-international-partners/singapore"}
+
 
 
 
