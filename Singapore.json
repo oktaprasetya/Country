@@ -11,7 +11,13 @@
   { "name": "James Cook University Singapore (JCU)", "image": "http://tiny.cc/SS-JCU", "link": "https://www.jcu.edu.sg/"},
   { "name": "Curtin University Singapore", "image": "http://tiny.cc/SS-curtinsing", "link": "https://curtin.edu.sg/"},
   { "name": "Birmingham City University", "image": "http://tiny.cc/SS-birminghamsing", "link": "https://www.bcu.ac.uk/international/bcu-in-your-country/singapore"},
-  { "name": "Monash College Singapore", "image": "http://tiny.cc/ss-monashsing", "link": "https://www.monashcollege.edu.au/about-us/our-international-partners/singapore"}
+  { "name": "Monash College Singapore", "image": "http://tiny.cc/ss-monashsing", "link": "https://www.monashcollege.edu.au/about-us/our-international-partners/singapore"},
+  { "name": "Murdoch University Singapore", "image": "http://tiny.cc/SS-murdochsing", "link": "https://www.murdoch.sg/"},
+  { "name": "Nanyang Institute of Management", "image": "http://tiny.cc/ss-nanyang", "link": "https://nanyang.edu.sg/"},
+  { "name": "London School of Business and Finance (LSBF)", "image": "http://tiny.cc/ss-londonsing", "link": "https://www.lsbf.edu.sg/"},
+  { "name": "Management Development Institute of Singapore (MDIS)", "image": "http://tiny.cc/SS-MDIS", "link": "https://www.lsbf.edu.sg/"}
+
+
 
 
 
