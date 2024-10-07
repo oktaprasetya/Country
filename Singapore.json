@@ -16,7 +16,21 @@
   { "name": "Nanyang Institute of Management", "image": "http://tiny.cc/ss-nanyang", "link": "https://nanyang.edu.sg/"},
   { "name": "London School of Business and Finance (LSBF)", "image": "http://tiny.cc/ss-londonsing", "link": "https://www.lsbf.edu.sg/"},
   { "name": "Northumbria University Singapore", "image": "http://tiny.cc/ss-Northumbriasing", "link": "https://www.kaplan.com.sg/university/northumbria-university"},
-  { "name": "Management Development Institute of Singapore (MDIS)", "image": "http://tiny.cc/SS-MDIS", "link": "https://www.lsbf.edu.sg/"}
+  { "name": "Management Development Institute of Singapore (MDIS)", "image": "http://tiny.cc/SS-MDIS", "link": "https://www.lsbf.edu.sg/"},
+  { "name": "Raffles College of Higher Education", "image": "http://tiny.cc/SS-raffles", "link": "https://raffles-college.edu.sg/"},
+  { "name": "RMIT Singapore", "image": "http://tiny.cc/SS-RMITsing", "link": "https://www.kaplan.com.sg/university/rmit-university"},
+  { "name": "SP Jain School of Global Management", "image": "http://tiny.cc/SS-spjain", "link": "https://www.spjain.sg/"},
+  { "name": "Royal Holloway University of London Singapore", "image": "http://tiny.cc/SS-RMITsing", "link": "https://www.kaplan.com.sg/university/royal-holloway-university-london"},
+  { "name": "Technical University of Munich Asia", "image": "http://tiny.cc/SS-TUM", "link": "https://tum-asia.edu.sg/"},
+  { "name": "University College Dublin Singapore", "image": "http://tiny.cc/SS-RMITsing", "link": "https://www.kaplan.com.sg/university/university-college-dublin"},
+  { "name": "William Angliss Institute Singapore", "image": "http://tiny.cc/SS-Wiliamanglish", "link": "https://angliss.edu.sg/"},
+  { "name": "University of Essex Singapore", "image": "http://tiny.cc/SS-RMITsing", "link": "https://www.kaplan.com.sg/university/university-essex"},
+  { "name": "University of Portsmouth Singapore", "image": "http://tiny.cc/SS-RMITsing", "link": "https://www.kaplan.com.sg/university/university-portsmouth"}
+
+
+
+
+
 
 
 
