@@ -1,4 +1,5 @@
 [
+  { "name": "Korea University", "image": "http://tiny.cc/ss-koreauni", "link": "https://www.korea.ac.kr/"},
   { "name": "Yonsei University", "image": "http://tiny.cc/ss-yonsei", "link": "http://www.yonsei.ac.kr/wj/"},
   { "name": "Pukyong National University (PKNU)", "image": "http://tiny.cc/SS_pukyong", "link": "https://www.pknu.ac.kr/"},
   { "name": "Chungnam National University (CNU)", "image": "http://tiny.cc/ss-Chungnam", "link": "http://www.cnu.ac.kr/"},
@@ -22,7 +23,9 @@
   { "name": "Hanyang University", "image": "http://tiny.cc/ss-hanyang", "link": "http://www.hanyang.ac.kr/"},
   { "name": "Jungwon University", "image": "http://tiny.cc/ss-jungwon", "link": "https://www.jwu.ac.kr/"},
   { "name": "Inha University", "image": "http://tiny.cc/ss-inha", "link": "https://www.inha.ac.kr/main.asp"},
-  { "name": "Sungkyunkwan University (SKKU)", "image": "http://tiny.cc/SS-SKKU", "link": "https://www.skku.edu/"}
+  { "name": "Sungkyunkwan University (SKKU)", "image": "http://tiny.cc/SS-SKKU", "link": "https://www.skku.edu/"},
+  { "name": "Sookmyung Women's University", "image": "http://tiny.cc/ss-sookmyung", "link": "https://www.sookmyung.ac.kr/kr/index.do"},
+  { "name": "Sogang University", "image": "http://tiny.cc/ss-sogang", "link": "https://sogang.ac.kr/ko/home"}
 
 
 
