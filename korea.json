@@ -25,7 +25,20 @@
   { "name": "Inha University", "image": "http://tiny.cc/ss-inha", "link": "https://www.inha.ac.kr/main.asp"},
   { "name": "Sungkyunkwan University (SKKU)", "image": "http://tiny.cc/SS-SKKU", "link": "https://www.skku.edu/"},
   { "name": "Sookmyung Women's University", "image": "http://tiny.cc/ss-sookmyung", "link": "https://www.sookmyung.ac.kr/kr/index.do"},
-  { "name": "Sogang University", "image": "http://tiny.cc/ss-sogang", "link": "https://sogang.ac.kr/ko/home"}
+  { "name": "Sogang University", "image": "http://tiny.cc/ss-sogang", "link": "https://sogang.ac.kr/ko/home"},
+  { "name": "Sahmyook University", "image": "http://tiny.cc/SS-SHU", "link": "http://www.shu.ac.kr/htm/main/main.asp"},
+  { "name": "Geumgang University", "image": "http://tiny.cc/SS-GGU", "link": "http://www.ggu.ac.kr/"},
+  { "name": "Sungshin Women`s University", "image": "http://tiny.cc/ss-sungshin", "link": "https://www.sungshin.ac.kr/sites/main_kor/main.jsp"},
+  { "name": "Cheongam College", "image": "http://tiny.cc/ss-cheongam", "link": "https://www.ca.ac.kr/"},
+  { "name": "Daejeon Catholic University", "image": "http://tiny.cc/ss-daejeon", "link": "https://www.dcatholic.ac.kr/"},
+  { "name": "Korea National University of Culture Heritage", "image": "http://tiny.cc/ss-knuh", "link": "https://www.knuh.ac.kr/"},
+  { "name": "Choonhae College of Health Sciences", "image": "http://tiny.cc/ss-choonhae", "link": "https://www.ch.ac.kr/main/index.php"},
+  { "name": "The University of Suwon", "image": "httphttp://tiny.cc/ss-suwon", "link": "https://www.suwon.ac.kr/"},
+  { "name": "Daegu Gyeongbuk Institute of Science and Technology (DGIST)​", "image": "http://tiny.cc/SS-DGIST", "link": "http://dgist.ac.kr/"},
+  { "name": "Cheju Halla University", "image": "http://tiny.cc/ss-cheju", "link": "https://www.chu.ac.kr/main/sub08"},
+  { "name": "Kyungbok University", "image": "http://tiny.cc/ss-kyungbok", "link": "https://kbu.ac.kr/kor/Main.do"},
+  { "name": "Gwangju Institute of Science and Technology (GIST)", "image": "http://tiny.cc/SS-GIST", "link": "https://www.gist.ac.kr/iuadm/"},
+  { "name": "Dongshin University", "image": "http://tiny.cc/ss-dongshin", "link": "https://www.dsu.ac.kr/"}
 
 
 
