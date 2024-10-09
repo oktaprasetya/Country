@@ -1,6 +1,10 @@
 [
   { "name": "Pukyong National University (PKNU)", "image": "http://tiny.cc/SS_pukyong", "link": "https://www.pknu.ac.kr/"},
-  { "name": "Chungnam National University (CNU)", "image": "http://tiny.cc/ss-Chungnam", "link": "http://www.cnu.ac.kr/"}
+  { "name": "Chungnam National University (CNU)", "image": "http://tiny.cc/ss-Chungnam", "link": "http://www.cnu.ac.kr/"},
+  { "name": "Gyeongsang National University (GNU)", "image": "http://tiny.cc/ss-Gyeongsang", "link": "https://gnu.ac.kr/main/main.do"},
+  { "name": "Suseong University", "image": "http://tiny.cc/ss-SUSEONG", "link": "https://www.sc.ac.kr/main/"}
+
+
 
  
 
