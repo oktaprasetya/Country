@@ -3,7 +3,19 @@
   { "name": "Chungnam National University (CNU)", "image": "http://tiny.cc/ss-Chungnam", "link": "http://www.cnu.ac.kr/"},
   { "name": "Gyeongsang National University (GNU)", "image": "http://tiny.cc/ss-Gyeongsang", "link": "https://gnu.ac.kr/main/main.do"},
   { "name": "Suseong University", "image": "http://tiny.cc/ss-SUSEONG", "link": "https://www.sc.ac.kr/main/"},
-  { "name": "Ulsan National Institute of Science and Technology (UNIST)", "image": "http://tiny.cc/ss-ulsan", "link": "http://unist-kor.unist.ac.kr/"}
+  { "name": "Ulsan National Institute of Science and Technology (UNIST)", "image": "http://tiny.cc/ss-ulsan", "link": "http://unist-kor.unist.ac.kr/"},
+  { "name": "Osan University", "image": "http://tiny.cc/SS-osan", "link": "https://www.osan.ac.kr/?menuno=127"},
+  { "name": "Soongeui Women's University", "image": "http://tiny.cc/ss-Soongeui", "link": "https://www.sewu.ac.kr/"},
+  { "name": "Taejae University", "image": "http://tiny.cc/ss-Taejae", "link": "https://www.taejae.ac.kr/"},
+  { "name": "Songwon University", "image": "http://tiny.cc/ss-Songwon", "link": "https://www.songwon.ac.kr/Default.asp"},
+  { "name": "Dongseo University (DSU)", "image": "http://tiny.cc/ss-Dongseo", "link": "https://www.dongseo.ac.kr/"},
+  { "name": "Chungbuk National University (CBNU)", "image": "http://tiny.cc/SS-CBNU", "link": "https://www.chungbuk.ac.kr/"},
+  { "name": "Academy of Korean Studies (AKS)", "image": "http://tiny.cc/SS-AKS", "link": "http://grad.aks.ac.kr/"},
+  { "name": "Busan University of Foreign Studies", "image": "http://tiny.cc/SS-BUFS", "link": "https://oiaglobal.bufs.ac.kr/"},
+  { "name": "Myongji University", "image": "http://tiny.cc/SS-Myongji", "link": "http://www.mju.ac.kr/"},
+  { "name": "Torch Trinity Graduate University", "image": "http://tiny.cc/SS-TORCH", "link": "https://www.ttgu.ac.kr/"}
+
+
 
 
 
