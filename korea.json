@@ -1,4 +1,5 @@
 [
+  { "name": "Yonsei University", "image": "http://tiny.cc/ss-yonsei", "link": "http://www.yonsei.ac.kr/wj/"},
   { "name": "Pukyong National University (PKNU)", "image": "http://tiny.cc/SS_pukyong", "link": "https://www.pknu.ac.kr/"},
   { "name": "Chungnam National University (CNU)", "image": "http://tiny.cc/ss-Chungnam", "link": "http://www.cnu.ac.kr/"},
   { "name": "Gyeongsang National University (GNU)", "image": "http://tiny.cc/ss-Gyeongsang", "link": "https://gnu.ac.kr/main/main.do"},
@@ -13,7 +14,15 @@
   { "name": "Academy of Korean Studies (AKS)", "image": "http://tiny.cc/SS-AKS", "link": "http://grad.aks.ac.kr/"},
   { "name": "Busan University of Foreign Studies", "image": "http://tiny.cc/SS-BUFS", "link": "https://oiaglobal.bufs.ac.kr/"},
   { "name": "Myongji University", "image": "http://tiny.cc/SS-Myongji", "link": "http://www.mju.ac.kr/"},
-  { "name": "Torch Trinity Graduate University", "image": "http://tiny.cc/SS-TORCH", "link": "https://www.ttgu.ac.kr/"}
+  { "name": "Torch Trinity Graduate University", "image": "http://tiny.cc/SS-TORCH", "link": "https://www.ttgu.ac.kr/"},
+  { "name": "Gangwon State University", "image": "http://tiny.cc/ss-Gangwon", "link": "https://www.gw.ac.kr/"},
+  { "name": "Chunnam Techno University ", "image": "http://tiny.cc/ss-Chunnam", "link": "https://www.cntu.ac.kr/"},
+  { "name": "Yeoju Institute of Technology", "image": "http://tiny.cc/ss-yeoju", "link": "https://www.yit.ac.kr/"},
+  { "name": "Soon Chun Hyang University", "image": "http://tiny.cc/SS-SCH", "link": "https://www.sch.ac.kr/"},
+  { "name": "Hanyang University", "image": "http://tiny.cc/ss-hanyang", "link": "http://www.hanyang.ac.kr/"},
+  { "name": "Jungwon University", "image": "http://tiny.cc/ss-jungwon", "link": "https://www.jwu.ac.kr/"},
+  { "name": "Inha University", "image": "http://tiny.cc/ss-inha", "link": "https://www.inha.ac.kr/main.asp"},
+  { "name": "Sungkyunkwan University (SKKU)", "image": "http://tiny.cc/SS-SKKU", "link": "https://www.skku.edu/"}
 
 
 
