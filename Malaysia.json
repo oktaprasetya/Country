@@ -9,8 +9,11 @@
   { "name": "Le Cordon Bleu Malaysia", "image": "http://tiny.cc/SS-LCBmalaysia", "link": "https://www.cordonbleu.edu/malaysia/home/en"},
   { "name": "Limkokwing University of Creative Technology", "image": "http://tiny.cc/SS-limkokwing", "link": "https://www.limkokwing.net/"},
   { "name": "Mahsa University", "image": "http://tiny.cc/SS-Mahsa", "link": "https://mahsa.edu.my/"},
-  { "name": "Management And Science University MSUy", "image": "http://tiny.cc/SS-MSU", "link": "https://www.msu.edu.my/"}
- 
+  { "name": "Management And Science University MSUy", "image": "http://tiny.cc/SS-MSU", "link": "https://www.msu.edu.my/"},
+  { "name": "Monash University Malaysia", "image": "http://tiny.cc/SS-Monashmalaysia", "link": "https://www.monash.edu.my/"},
+  { "name": "Multimedia University", "image": "http://tiny.cc/SS-MMU", "link": "https://www.mmu.edu.my/"},
+  { "name": "Raffles American School", "image": "http://tiny.cc/SS-raflesmalaysia", "link": "https://raffles-american-school.edu.my/"}
+
 
 
 
