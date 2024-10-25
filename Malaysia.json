@@ -12,7 +12,18 @@
   { "name": "Management And Science University MSUy", "image": "http://tiny.cc/SS-MSU", "link": "https://www.msu.edu.my/"},
   { "name": "Monash University Malaysia", "image": "http://tiny.cc/SS-Monashmalaysia", "link": "https://www.monash.edu.my/"},
   { "name": "Multimedia University", "image": "http://tiny.cc/SS-MMU", "link": "https://www.mmu.edu.my/"},
-  { "name": "Raffles American School", "image": "http://tiny.cc/SS-raflesmalaysia", "link": "https://raffles-american-school.edu.my/"}
+  { "name": "Raffles American School", "image": "http://tiny.cc/SS-raflesmalaysia", "link": "https://raffles-american-school.edu.my/"},
+  { "name": "Raffles University Malaysia", "image": "http://tiny.cc/SS-Raffless", "link": "https://raffles-university.edu.my/"},
+  { "name": "SEGi College", "image": "http://tiny.cc/SS-segicollege", "link": "https://www.segi.edu.my/"},
+  { "name": "SEGi University", "image": "http://tiny.cc/ss-segiuniversity", "link": "https://www.segi.edu.my/"},
+  { "name": "Shattuck-St. Mary's Forest City International School", "image": "http://tiny.cc/ss-Shattuck", "link": "https://www.cats-fc.org/"},
+  { "name": "Sunway University", "image": "http://tiny.cc/SS-Sunway", "link": "https://sunwayuniversity.edu.my/"},
+  { "name": "Swinburne University of Technology Sarawak (SUTS)", "image": "http://tiny.cc/ss-swinburnemalay", "link": "https://www.swinburne.edu.my/"},
+  { "name": "Taylor`s University Malaysia", "image": "http://tiny.cc/SS-taylormalay", "link": "https://university.taylors.edu.my/en.html"},
+  { "name": "Tunku Abdul Rahman University College (TAR UC)", "image": "http://tiny.cc/SS-TARC", "link": "https://tarc.edu.my/"},
+  { "name": "UCSI University", "image": "http://tiny.cc/SS-UCSI", "link": "https://www.ucsiuniversity.edu.my/"},
+  { "name": "Univerisiti Tun Abdul Razak - UniRazak", "image": "http://tiny.cc/SS-Unirazak", "link": "https://unirazak.edu.my/"},
+  { "name": "Universiti Kuala Lumpur (UniKL)", "image": "http://tiny.cc/SS-Unirazak", "link": "https://www.unikl.edu.my/"}
 
 
 
