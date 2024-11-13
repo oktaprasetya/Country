@@ -1,0 +1,19 @@
+[
+  { "name": "University of Toronto", "image": "http://tiny.cc/ss-torontouni", "link": "https://www.utoronto.ca/"},
+  { "name": "University of British Columbia", "image": "http://tiny.cc/SS-UBC", "link": "https://www.ubc.ca/"},
+  { "name": "McGill University", "image": "http://tiny.cc/SS-McGill", "link": "https://www.mcgill.ca/"},
+  { "name": "McMaster University", "image": "http://tiny.cc/SS-McMaster", "link": "https://www.mcmaster.ca/"},
+  { "name": "University of Alberta", "image": "http://tiny.cc/SS-Alberta", "link": "https://www.ualberta.ca/en/index.html"},
+  { "name": "Universite de Montreal", "image": "http://tiny.cc/SS-Montreal", "link": "https://www.umontreal.ca/"},
+  { "name": "University of Waterloo", "image": "http://tiny.cc/SS-Waterloo", "link": "https://uwaterloo.ca/"},
+  { "name": "University of Calgary", "image": "http://tiny.cc/SS-Calgary", "link": "https://ucalgary.ca/"},
+  { "name": "University of Ottawa", "image": "http://tiny.cc/SS-Ottawa", "link": "https://www.uottawa.ca/"},
+  { "name": "Western University", "image": "http://tiny.cc/ss-westernuni", "link": "https://www.uwo.ca/index.html"}
+  
+
+
+
+
+
+
+]
