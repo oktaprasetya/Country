@@ -13,7 +13,13 @@
   { "name": "American Heritage School", "image": "http://tiny.cc/SS-Ahschool", "link": "https://www.ahschool.com/"},
   { "name": "American International College", "image": "http://tiny.cc/SS-AICschool", "link": "https://www.aic.edu/"},
   { "name": "American Musical and Dramatic Academy AMDA", "image": "http://tiny.cc/SS-AMDAschool", "link": "https://www.amda.edu/"},
-  { "name": "American National University", "image": "http://tiny.cc/SS-ANUschool", "link": "https://an.edu/"}
+  { "name": "American National University", "image": "http://tiny.cc/SS-ANUschool", "link": "https://an.edu/"},
+  { "name": "American University", "image": "http://tiny.cc/SS-AUschool", "link": "https://www.american.edu/"},
+  { "name": "Amerigo Education", "image": "http://tiny.cc/SS-amerigoschool", "link": "https://www.amerigoeducation.com/"},
+  { "name": "Anderson University", "image": "http://tiny.cc/SS-Andersonschool", "link": "https://andersonuniversity.edu/"},
+  { "name": "Andrews Osborne Academy", "image": "http://tiny.cc/SS-OsborneAcademy", "link": "https://www.andrewsosborne.org/"},
+  { "name": "Annie Wright Schools", "image": "http://tiny.cc/SS-AWschool", "link": "https://www.aw.org/"},
+  { "name": "Archbishop Riordan High School", "image": "http://tiny.cc/SS-Archbishopschool", "link": "https://www.riordanhs.org/"}
 
 
 
