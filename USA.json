@@ -19,8 +19,18 @@
   { "name": "Anderson University", "image": "http://tiny.cc/SS-Andersonschool", "link": "https://andersonuniversity.edu/"},
   { "name": "Andrews Osborne Academy", "image": "http://tiny.cc/SS-OsborneAcademy", "link": "https://www.andrewsosborne.org/"},
   { "name": "Annie Wright Schools", "image": "http://tiny.cc/SS-AWschool", "link": "https://www.aw.org/"},
-  { "name": "Archbishop Riordan High School", "image": "http://tiny.cc/SS-Archbishopschool", "link": "https://www.riordanhs.org/"}
+  { "name": "Archbishop Riordan High School", "image": "http://tiny.cc/SS-Archbishopschool", "link": "https://www.riordanhs.org/"},
 
+  { "name": "Arizona State University", "image": "http://tiny.cc/SS-ASUschool", "link": "https://www.asu.edu/"},
+  { "name": "Arkansas State University", "image": "http://tiny.cc/arkansasschool", "link": "https://www.astate.edu/"},
+  { "name": "Army and Navy Academy", "image": "http://tiny.cc/SS-Armyschool", "link": "https://armyandnavyacademy.org/"},
+  { "name": "Art Center College of Design", "image": "http://tiny.cc/SS-Designschool", "link": "https://www.artcenter.edu/"},
+  { "name": "Ashland University", "image": "http://tiny.cc/SS-Ashlandschool", "link": "https://www.ashland.edu/"},
+  { "name": "Ashley Hall", "image": "http://tiny.cc/SS-Ashleyhallschool", "link": "https://www.ashleyhall.org/"},
+  { "name": "ASU Prep Digital", "image": "http://tiny.cc/v0rg001", "link": "https://www.asuprepdigital.org/"},
+  { "name": "Auburn Montgomery University", "image": "http://tiny.cc/u1rg001", "link": "https://www.aum.edu/"},
+  { "name": "Auburn University", "image": "http://tiny.cc/g3rg001", "link": "https://www.auburn.edu/"},
+  { "name": "Augustana University", "image": "http://tiny.cc/87rg001", "link": "https://www.augie.edu/"}
 
 
 
