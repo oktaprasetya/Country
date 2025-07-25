@@ -1,5 +1,8 @@
 [
-  { "name": "Australian National University ANU", "image": "https://bit.ly/3ZvoSmx", "link": "https://australia.starshipeducation.com/p/australian-national-university-anu.html" },
+  { "name": "Australian National University ANU", "image": "https://bit.ly/3ZvoSmx", "location": "Canberra", "campuses": ["Acton, Canberra"], "link": "https://australia.starshipeducation.com/p/australian-national-university-anu.html", "featured": true, "featuredText": "Group of 8"},
+
+
+  
   { "name": "University of New South Wales UNSW", "image": "https://bit.ly/3LyZSFa", "link": "https://australia.starshipeducation.com/p/universitas-new-south-wales-unsw.html"},
   { "name": "The University of Queensland UQ", "image": "https://bit.ly/46ltD4s", "link": "https://australia.starshipeducation.com/p/the-university-of-queensland.html"},
   { "name": "University of Western Australia UWA", "image": "http://tiny.cc/SS-UWAbuilding", "link": "https://australia.starshipeducation.com/p/university-of-western-australia-uwa.html?m=1"},
