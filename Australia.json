@@ -1,7 +1,7 @@
 [
-  { "name": "ANU - Australian National University", "image": "https://bit.ly/3ZvoSmx", "location": "Canberra", "campuses": ["Acton, Canberra"], "link": "https://australia.starshipeducation.com/p/australian-national-university-anu.html", "featured": true, "featuredText": "QS Rank"},
-  { "name": "UNSW - University of New South Wales", "image": "https://bit.ly/3LyZSFa", "location": "Sydney", "campuses": ["Kensington", "Paddington", "Canberra"], "link": "https://australia.starshipeducation.com/p/universitas-new-south-wales-unsw.html", "featured": true, "featuredText": "QS Rank"},
-  { "name": "UQ - The University of Queensland", "image": "https://bit.ly/46ltD4s", "location": "Brisbane ", "campuses": ["St Lucia", "Lawes", "Herston", "Woolloongabba"], "link": "https://australia.starshipeducation.com/p/the-university-of-queensland.html", "featured": true, "featuredText": "QS Rank"},
+  { "name": "ANU - Australian National University", "image": "https://bit.ly/3ZvoSmx", "location": "Canberra", "campuses": ["Acton, Canberra"], "link": "https://australia.starshipeducation.com/p/australian-national-university-anu.html", "featured": true, "featuredText": "<i class=\"fa-solid fa-ranking-star\"></i> 32"},
+  { "name": "UNSW - University of New South Wales", "image": "https://bit.ly/3LyZSFa", "location": "Sydney", "campuses": ["Kensington", "Paddington", "Canberra"], "link": "https://australia.starshipeducation.com/p/universitas-new-south-wales-unsw.html", "featured": true, "featuredText": "<i class=\"fa-solid fa-ranking-star\"></i> 20"},
+  { "name": "UQ - The University of Queensland", "image": "https://bit.ly/46ltD4s", "location": "Brisbane ", "campuses": ["St Lucia", "Lawes", "Herston", "Woolloongabba"], "link": "https://australia.starshipeducation.com/p/the-university-of-queensland.html", "featured": true, "featuredText": "<i class=\"fa-solid fa-ranking-star\"></i> 43"},
 
 
   
