@@ -7,10 +7,10 @@
   { "name": "UQ - The University of Queensland", "image": "https://bit.ly/46ltD4s", "location": "Brisbane ", "campuses": ["St Lucia", "Lawes", "Herston", "Woolloongabba"], "link": "https://australia.starshipeducation.com/p/the-university-of-queensland.html", "featured": true, "featuredText": "43"},
   { "name": "UWA - University of Western Australia", "image": "http://tiny.cc/SS-UWAbuilding", "location": "Perth", "campuses": ["Crawley", "Claremont", "Nedlands", "Albany"], "link": "https://australia.starshipeducation.com/p/university-of-western-australia-uwa.html?m=1", "featured": true, "featuredText": "77"},
   { "name": "University of Adelaide", "image": "https://bit.ly/48EGnVU", "location": "Adelaide", "campuses": ["Magill", "Mawson Lakes", "Urrbrae", "Roseworthy"], "link": "https://australia.starshipeducation.com/p/the-university-of-adelaide.html?m=1", "featured": true, "featuredText": "82"},
+  { "name": "UTS - University of Technology Sydney", "image": "https://bit.ly/3ZdNfF7", "location": "Sydney", "campuses": ["Ultimo", "Haymarket", "Chippendale", "Botany"], "link": "https://australia.starshipeducation.com/p/university-of-technology-sydney-uts.html", "featured": true, "featuredText": "96"},
   { "name": "RMIT University", "image": "https://bit.ly/44Nc4Js", "location": "Melbourne", "campuses": ["Brunswick", "Bundoora "], "link": "https://australia.starshipeducation.com/p/rmit-university-australia.html", "featured": true, "featuredText": "125"},
   
   
-  { "name": "UTS - University of Technology Sydney", "image": "https://bit.ly/3ZdNfF7", "location": "Sydney", "campuses": ["Ultimo", "Haymarket", "Chippendale", "Botany"], "link": "https://www.uts.edu.au/", "featured": true, "featuredText": "96"},
 
 
 
