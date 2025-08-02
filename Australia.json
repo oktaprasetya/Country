@@ -19,7 +19,9 @@
 
 
   
-  { "name": "Academia International", "image": "https://bit.ly/3ESjhNO", "link": "https://australia.starshipeducation.com/p/academia-australia.html"},
+  { "name": "Academia International", "image": "https://bit.ly/3ESjhNO", "location": "Melbourne", "campuses": ["Melbourne, Brisbane", "Adelaide"], "link": "https://australia.starshipeducation.com/p/academia-australia.html", "featured": false, "featuredText": ""},
+  { "name": "Abbey College Australia", "image": "http://tiny.cc/a4nq001", "location": "Sydney", "campuses": ["Haymarket"], "link": "https://australia.starshipeducation.com/p/abbey-college-australia.html", "featured": false, "featuredText": ""},
+
   
   { "name": "Aberfoyle Park High School", "image": "https://bit.ly/3EPBRpA", "link": "http://intra.aphs.sa.edu.au/site/"},
   { "name": "Academy of Film, Theatre & Television", "image": "http://bit.ly/3JvcLQI", "link": "https://www.aftt.edu.au/"},
