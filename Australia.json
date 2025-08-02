@@ -9,8 +9,9 @@
   { "name": "University of Adelaide", "image": "https://bit.ly/48EGnVU", "location": "Adelaide", "campuses": ["Magill", "Mawson Lakes", "Urrbrae", "Roseworthy"], "link": "https://australia.starshipeducation.com/p/the-university-of-adelaide.html?m=1", "featured": true, "featuredText": "82"},
   { "name": "UTS - University of Technology Sydney", "image": "https://bit.ly/3ZdNfF7", "location": "Sydney", "campuses": ["Ultimo", "Haymarket", "Chippendale", "Botany"], "link": "https://australia.starshipeducation.com/p/university-of-technology-sydney-uts.html", "featured": true, "featuredText": "96"},
   { "name": "RMIT University", "image": "https://bit.ly/44Nc4Js", "location": "Melbourne", "campuses": ["Brunswick", "Bundoora "], "link": "https://australia.starshipeducation.com/p/rmit-university-australia.html", "featured": true, "featuredText": "125"},
+  { "name": "Macquarie University", "image": "https://bit.ly/3NOtL6k", "location": "Sydney", "campuses": ["Haymarket", "Adelaide "], "link": "https://australia.starshipeducation.com/p/macquarie-university.html", "featured": true, "featuredText": "138"},
   
-  
+
 
 
 
@@ -390,7 +391,6 @@
   { "name": "Mabel Park State High School", "image": "https://bit.ly/3Ai6K41", "link": "https://mabelparkshs.eq.edu.au/"},
   { "name": "MacGregor State High School", "image": "https://bit.ly/3oHMztu", "link": "https://macgregorshs.eq.edu.au/"},
   { "name": "Mackay North State High School", "image": "https://bit.ly/3M1yX5F", "link": "https://mackaynorthshs.eq.edu.au/"},
-  { "name": "Macquarie University", "image": "https://bit.ly/3NOtL6k", "link": "https://www.mq.edu.au/"},
   { "name": "Malanda State High School", "image": "https://bit.ly/41frWCA", "link": "https://malandashs.eq.edu.au/"},
   { "name": "Maleny State High School", "image": "https://bit.ly/44Xbc6h", "link": "https://malenyshs.eq.edu.au/"},
   { "name": "Maroochydore State High School", "image": "https://bit.ly/3VZcVnz", "link": "https://maroochydoreshs.eq.edu.au/Pages/default.aspx"},
