@@ -22,7 +22,7 @@
   
   { "name": "Academia International", "image": "https://bit.ly/3ESjhNO", "location": "Melbourne", "campuses": ["Melbourne, Brisbane", "Adelaide"], "link": "https://australia.starshipeducation.com/p/academia-australia.html", "featured": false, "featuredText": ""},
   { "name": "Abbey College Australia", "image": "http://tiny.cc/a4nq001", "location": "Sydney", "campuses": ["Haymarket"], "link": "https://australia.starshipeducation.com/p/abbey-college-australia.html", "featured": false, "featuredText": ""},
-  { "name": "Australian College of Business Intelligence", "image": "https://bit.ly/3rbCUNx", "location": "Sydney", "campuses": ["Sydney, Melbourne, Brisbane"], "link": "https://australia.starshipeducation.com/p/australian-college-of-business.html", "featured": false, "featuredText": ""},
+  { "name": "ACBI - Australian College of Business Intelligence", "image": "https://bit.ly/3rbCUNx", "location": "Sydney", "campuses": ["Sydney, Melbourne, Brisbane"], "link": "https://australia.starshipeducation.com/p/australian-college-of-business.html", "featured": false, "featuredText": ""},
 
 
   
