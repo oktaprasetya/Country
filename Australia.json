@@ -17,13 +17,15 @@
   { "name": "QUT - Queensland University of Technology", "image": "https://bit.ly/3Lfnoa4", "location": "Brisbane", "campuses": ["Gardens Point", "Kelvin Grove", "Canberra"], "link": "https://www.qut.edu.au/", "featured": true, "featuredText": "226"},
   { "name": "The University of Newcastle", "image": "https://bit.ly/45KUrLo", "location": "Newcastle", "campuses": ["Newcastle", "Callaghan", "Central Coast", "Sydney"], "link": "https://www.newcastle.edu.au/", "featured": true, "featuredText": "227"},
   { "name": "La Trobe University", "image": "https://bit.ly/3Kg5EdH", "location": "Melbourne", "campuses": ["Bundoora", "Sydney", "Victoria"], "link": "https://www.latrobe.edu.au/", "featured": true, "featuredText": "233"},
-
-
-
-
-
+  { "name": "Griffith University", "image": "https://bit.ly/3FSXF4Q", "location": "Brisbane", "campuses": ["Gold Coast", "Nathan", "Mt Gravatt", "South Bank"], "link": "https://www.griffith.edu.au/", "featured": true, "featuredText": "268"},
+  { "name": "Swinburne University of Technology", "image": "https://bit.ly/3LjClbs", "location": "Melbourne", "campuses": ["Hawthorn", "Wantirna", "Croydon", "Parra­matta"], "link": "https://www.swinburne.edu.au/", "featured": true, "featuredText": "294"},
+  { "name": "University of Tasmania", "image": "https://bit.ly/487cmh7", "location": "Hobart", "campuses": ["Hobart", "Launceston", "Burnie", "Sydney & Melbourne"], "link": "https://www.utas.edu.au", "featured": true, "featuredText": "314"},
+  { "name": "Flinders University", "image": "https://bit.ly/3THxAvj", "location": "Adelaide", "campuses": ["Bedford Park", "Tonsley", "Brooklyn Park", "Noarlunga"], "link": "https://www.flinders.edu.au/", "featured": true, "featuredText": "387"},
+  { "name": "Western Sydney University", "image": "https://bit.ly/3r4AJeL", "location": "Milperra", "campuses": ["Parramatta", "Campbelltown", "Liverpool", "Bankstown"], "link": "https://www.westernsydney.edu.au/", "featured": true, "featuredText": "400"},
+  { "name": "University of Southern Queensland", "image": "https://bit.ly/4609pwS", "location": "Toowoomba", "campuses": ["Toowoomba", "Springfield", "Ipswich"], "link": "https://www.usq.edu.au/", "featured": true, "featuredText": "410"},
+  { "name": "Murdoch University", "image": "https://bit.ly/3OM6wdZ", "location": "Perth", "campuses": ["Mandurah", "Rockingham"], "link": "https://www.murdoch.edu.au/", "featured": true, "featuredText": "423"},
+  { "name": "James Cook University", "image": "https://bit.ly/3m2C2bC", "location": "Queensland", "campuses": ["Townsville", "Cairns"], "link": "https://www.jcu.edu.au/", "featured": true, "featuredText": "440"},
   
-
 
   
   { "name": "Academia International", "image": "https://bit.ly/3ESjhNO", "location": "Melbourne", "campuses": ["Melbourne, Brisbane", "Adelaide"], "link": "https://australia.starshipeducation.com/p/academia-australia.html", "featured": false, "featuredText": ""},
@@ -278,7 +280,6 @@
   { "name": "Excelsia College", "image": "https://bit.ly/3RyZ5YF", "link": "https://excelsia.edu.au/"},
   { "name": "Federation University", "image": "https://bit.ly/3FThTve", "link": "https://federation.edu.au/"},
   { "name": "Findon High School", "image": "https://bit.ly/3JMbAeb", "link": "https://www.findonhs.sa.edu.au/"},
-  { "name": "Flinders University", "image": "https://bit.ly/3THxAvj", "link": "https://www.flinders.edu.au/"},
   { "name": "Front Cooking School", "image": "https://bit.ly/3lEwGmK", "link": "https://www.frontcookingschool.edu.au/"},
   { "name": "Ferny Grove State High School", "image": "https://bit.ly/3FOmoXJ", "link": "https://fernygroveshs.eq.edu.au/"},
   { "name": "Fahan School", "image": "https://bit.ly/3ZxvvoI", "link": "https://www.fahan.tas.edu.au/"},
@@ -297,7 +298,6 @@
   { "name": "Grant High School", "image": "https://bit.ly/40fvi8Y", "link": "https://web.granths.sa.edu.au/"},
   { "name": "Greenwich Management College", "image": "https://bit.ly/3TSH5Yv", "link": "https://www.greenwichcollege.edu.au"},
   { "name": "Griffith College", "image": "https://bit.ly/3nl4PZg", "link": "https://www.griffithcollege.edu.au/"},
-  { "name": "Griffith University", "image": "https://bit.ly/3FSXF4Q", "link": "https://www.griffith.edu.au/"},
   { "name": "Greenwich English College", "image": "https://bit.ly/3FSXF4Q", "link": "https://www.griffith.edu.au/"},
   { "name": "Gateway Business College", "image": "https://bit.ly/46ntH3H", "link": "https://www.gatewaycollege.edu.au/"},
   { "name": "GEN Institute", "image": "https://bit.ly/4634QCB", "link": "http://gen.edu.au/"},
@@ -362,7 +362,6 @@
   { "name": "Ironwood Institute", "image": "https://bit.ly/3Uj3Jvs", "link": "https://ironwood.edu.au/"},
   { "name": "IT Masters", "image": "https://s.id/22UA7", "link": "https://itmasters.edu.au/"},
   { "name": "Ivanhoe Grammar School", "image": "https://s.id/22UBc", "link": "https://www.ivanhoe.com.au/"},
-  { "name": "James Cook University", "image": "https://bit.ly/3m2C2bC", "link": "https://www.jcu.edu.au/"},
   { "name": "James Nash State High School", "image": "https://bit.ly/430Z9Uo", "link": "https://jamesnashshs.eq.edu.au/"},
   { "name": "Jansen Newman Institute (JNI)", "image": "https://bit.ly/40zyfS4", "link": "https://www.torrens.edu.au/about/our-heritage/jni"},
   { "name": "Jindalee State School", "image": "https://s.id/22UIx", "link": "https://jindaleess.eq.edu.au/"},
@@ -414,7 +413,6 @@
   { "name": "Mount Gambier High School", "image": "https://bit.ly/3MrlAKY", "link": "http://www.mghs.sa.edu.au/html/home.html"},
   { "name": "Mount Gravatt State High School", "image": "https://bit.ly/3OplXsc", "link": "https://mtgravattshs.eq.edu.au/"},
   { "name": "Mountain Creek State High School", "image": "https://bit.ly/3BLKWhQ", "link": "https://mountaincreekshs.eq.edu.au/"},
-  { "name": "Murdoch University", "image": "https://bit.ly/3OM6wdZ", "link": "https://www.murdoch.edu.au/"},
   { "name": "Murray Bridge High School", "image": "https://bit.ly/43qV375", "link": "https://www.mbhs.sa.edu.au/"},
   { "name": "Nambour State College", "image": "https://bit.ly/3JVB21p", "link": "https://namboursc.eq.edu.au/"},
   { "name": "Nerang State High School", "image": "https://bit.ly/3XSPjSo", "link": "https://nerangshs.eq.edu.au/"},
@@ -455,7 +453,6 @@
   { "name": "St Paul's International College", "image": "https://bit.ly/451P6yt", "link": "https://www.spic.nsw.edu.au/"},
   { "name": "Sunnybank State High School", "image": "https://bit.ly/467jcRO", "link": "https://sunnybankshs.eq.edu.au/Pages/default.aspx"},
   { "name": "Sunshine Beach State High School", "image": "https://bit.ly/3ExT32V", "link": "https://sunshinebeachhigh.eq.edu.au/"},
-  { "name": "Swinburne University of Technology", "image": "https://bit.ly/3LjClbs", "link": "https://www.swinburne.edu.au/"},
   { "name": "Sydney Institute of Business and Technology (SIBT)", "image": "https://bit.ly/3sTbTyM", "link": "https://www.sibt.nsw.edu.au/"},
   { "name": "Sydney School of Business and Technology (SSBT)", "image": "https://bit.ly/46eKjdP", "link": "https://ssbt.edu.au/"},
   { "name": "The Institute of Creative Arts and Technology (ICAT)", "image": "https://bit.ly/3BbvevX", "link": "https://www.icat.edu.au/"},
@@ -483,8 +480,6 @@
   { "name": "University of Divinity", "image": "https://bit.ly/45KOazA", "link": "https://divinity.edu.au/"},
   { "name": "University of New England", "image": "https://bit.ly/45G2Dwy", "link": "https://www.une.edu.au/"},
   { "name": "University of South Australia (UNISA)", "image": "https://bit.ly/44MgwrJ", "link": "https://www.unisa.edu.au/"},
-  { "name": "University of Southern Queensland", "image": "https://bit.ly/4609pwS", "link": "https://www.usq.edu.au/"},
-  { "name": "University of Tasmania", "image": "https://bit.ly/487cmh7", "link": "https://www.utas.edu.au"},
   { "name": "Upper Coomera State College", "image": "https://bit.ly/3PyhPGn", "link": "https://uppercoomerasc.eq.edu.au/"},
   { "name": "Urangan State High School", "image": "https://bit.ly/3sJTdS9", "link": "https://uranganshs.eq.edu.au/"},
   { "name": "UTS College", "image": "https://bit.ly/4639xMi", "link": "https://utscollege.edu.au/"},
@@ -494,9 +489,7 @@
   { "name": "Victor Harbor High School", "image": "https://bit.ly/3sQKJsv", "link": "https://www.vhhs.sa.edu.au/"},
   { "name": "Victory Institute", "image": "https://bit.ly/3sNSf7q", "link": "https://www.victory.nsw.edu.au/"},
   { "name": "Victoria University", "image": "https://bit.ly/3LhrD5e", "link": "https://www.vu.edu.au/"},
-  { "name": "Wellington Point State High School", "image": "https://bit.ly/3PfLoeJ", "link": "https://wellingtonpointshs.eq.edu.au/"},
-  { "name": "Western Sydney University", "image": "https://bit.ly/3r4AJeL", "link": "https://www.westernsydney.edu.au/"},
-  { "name": "Whitehouse Institute of Design", "image": "https://bit.ly/3EyBVKk", "link": "https://whitehouse-design.edu.au/"},
+  { "name": "Wellington Point State High School", "image": "https://bit.ly/3PfLoeJ", "link": "https://wellingtonpointshs.eq.edu.au/"},  { "name": "Whitehouse Institute of Design", "image": "https://bit.ly/3EyBVKk", "link": "https://whitehouse-design.edu.au/"},
   { "name": "Whites Hill State College", "image": "https://bit.ly/45Mmha8", "link": "https://whiteshillsc.eq.edu.au/"},
   { "name": "William Angliss Institute", "image": "https://bit.ly/3PvmoBp", "link": "https://www.angliss.edu.au/"},
   { "name": "William Blue College of Hospitality Management", "image": "https://bit.ly/3EAfvZ6", "link": "https://www.torrens.edu.au/about/our-heritage/william-blue"},
