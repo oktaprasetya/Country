@@ -1,4 +1,11 @@
 [
+
+  { "name": "Shenzhen University", "image": "http://tiny.cc/3utr001", "location": " Shenzhen", "campuses": ["Yuehai", "Lihu"], "link": "https://china.starshipeducation.com/p/shenzhen-university-szu.html", "featured": true, "featuredText": "452"},
+
+
+  { "name": "Daqing Normal University", "image": "http://tiny.cc/SS-Daqing", "location": " Heilongjiang", "campuses": ["Daqing", "Fangxiao"], "link": "https://www.dqsy.net/", "featured": false, "featuredText": ""},
+
+
   { "name": "Daqing Normal University", "image": "http://tiny.cc/SS-Daqing", "link": "https://www.dqsy.net/"},
   { "name": "Liaoning University (LNU)", "image": "http://tiny.cc/SS-Liaoning1", "link": "https://enweb.lnu.edu.cn/"},
   { "name": "Wuhan Sports University", "image": "http://tiny.cc/SS-WuhanSports", "link": "https://en.whsu.edu.cn/"},
