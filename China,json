@@ -7,6 +7,8 @@
   { "name": "Zhejiang University", "image": "http://tiny.cc/xzur001", "location": "Zhejiang", "campuses": ["Yuquan", "Xixi", "Huajiachi", "Zhijiang", "Zhoushan", "Haining", "Ningbo"], "link": "https://www.zju.edu.cn/english/", "featured": true, "featuredText": "49"},
   { "name": "Nanjing University", "image": "http://tiny.cc/80vr001", "location": "Jiangsu", "campuses": ["Gulou", "Xianlin", "Pukou", "Suzhou"], "link": "https://www.nju.edu.cn/en/", "featured": true, "featuredText": "103"},
   { "name": "University of Science and Technology of China", "image": "http://tiny.cc/o0vr001", "location": "Anhui", "campuses": ["Hefei", "Suzhou"], "link": "https://en.ustc.edu.cn/", "featured": true, "featuredText": "132"},
+{ "name": "Tongji University", "image": "http://tiny.cc/o0vr001", "location": "Shanghai", "campuses": ["Siping", "Jiading", "Huxi", "Hubei", "Lingang", "Zhejiang"], "link": "https://en.tongji.edu.cn/p/", "featured": true, "featuredText": "177"},
+
 
 
 
