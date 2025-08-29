@@ -4,9 +4,9 @@
 
   { "name": "Daqing Normal University", "image": "http://tiny.cc/SS-Daqing", "location": "Heilongjiang", "campuses": ["Daqing", "Fangxiao"], "link": "https://www.dqsy.net/", "featured": false, "featuredText": ""},
   { "name": "Liaoning University (LNU)", "image": "http://tiny.cc/SS-Liaoning1", "location": "Shenyang", "campuses": ["Chongshan", "Puhe / Daoyi, Wusheng"], "link": "https://enweb.lnu.edu.cn/", "featured": false, "featuredText": ""},
-  { "name": "Wuhan Sports University", "image": "http://tiny.cc/SS-WuhanSports", "location": "Hubei", "campuses": ["Donghu", Canglong, Baoxie, Wudang"], "link": "https://en.whsu.edu.cn/", "featured": false, "featuredText": ""},
-  { "name": "Wuhan Textile University", "image": "http://tiny.cc/SS-wuhantextile", "location": "Hubei", "campuses": ["Yangguang", Nanhu, Donghu, Canglongdao"], "link": "https://english.wtu.edu.cn/", "featured": false, "featuredText": ""},
-  { "name": "Nanjing Tech University", "image": "http://tiny.cc/SS-NanjingTech", "location": "Jiangsu", "campuses": ["Jiangpu", Dingjiaoqiao, Hongqiao"], "link": "https://en.njtech.edu.cn/", "featured": false, "featuredText": ""},
+  { "name": "Wuhan Sports University", "image": "http://tiny.cc/SS-WuhanSports", "location": "Hubei", "campuses": ["Donghu, Canglong, Baoxie, Wudang"], "link": "https://en.whsu.edu.cn/", "featured": false, "featuredText": ""},
+  { "name": "Wuhan Textile University", "image": "http://tiny.cc/SS-wuhantextile", "location": "Hubei", "campuses": ["Yangguang, Nanhu, Donghu, Canglongdao"], "link": "https://english.wtu.edu.cn/", "featured": false, "featuredText": ""},
+  { "name": "Nanjing Tech University", "image": "http://tiny.cc/SS-NanjingTech", "location": "Jiangsu", "campuses": ["Jiangpu, Dingjiaoqiao, Hongqiao"], "link": "https://en.njtech.edu.cn/", "featured": false, "featuredText": ""},
   { "name": "Liaoning Petrochemical University (LNPU)", "image": "http://tiny.cc/SS-Liaoning", "location": "Liaoning", "campuses": ["Fushun"], "link": "https://www.lnpuchiwest.cn/", "featured": false, "featuredText": ""},
   { "name": "Hubei University of Economics (HBUE)", "image": "http://tiny.cc/SS-HBUE", "location": "Hubei", "campuses": ["Wuhan"], "link": "https://english.hbue.edu.cn/3327/listm.htm", "featured": false, "featuredText": ""},
   { "name": "Huzhou Vocational and Technical College", "image": "http://tiny.cc/SS-HVTC", "location": "Zhejiang", "campuses": ["Huzhou"], "link": "https://www.huvtc.edu.cn/", "featured": false, "featuredText": ""},
