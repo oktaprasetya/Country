@@ -18,6 +18,10 @@
   { "name": "Huazhong University of Science and Technology", "image": "http://tiny.cc/2zwr001", "location": "Wuhan", "campuses": ["Wuchang", "Hankou"], "link": "https://english.hust.edu.cn/", "featured": true, "featuredText": "319"},
   { "name": "Sichuan University", "image": "http://tiny.cc/vzwr001", "location": "Sichuan", "campuses": ["Wangjiang", "Huaxi", "Jiang’an"], "link": "https://en.scu.edu.cn/", "featured": true, "featuredText": "324"},
   { "name": "Shandong University", "image": "http://tiny.cc/20xr001", "location": "Jinan", "campuses": ["Hongjialou", "Baotuquan", "Qianfoshan", "Xinglongshan"], "link": "https://www.en.sdu.edu.cn/", "featured": true, "featuredText": "339"},
+  { "name": "Xiamen University", "image": "http://tiny.cc/n0xr001", "location": "Fujian", "campuses": ["Siming", "Zhangzhou", "Xiang’an", "Malaysia"], "link": "https://en.xmu.edu.cn/", "featured": true, "featuredText": "341"},
+  { "name": "Southern University of Science and Technology (SUSTech)", "image": "http://tiny.cc/v0xr001", "location": "Guangdong", "campuses": ["Shenzhen"], "link": "https://www.sustech.edu.cn/en/", "featured": true, "featuredText": "343"},
+  { "name": "Nankai University", "image": "http://tiny.cc/n1xr001", "location": "Tianjin", "campuses": ["Balitai", "Jinnan", "TEDA"], "link": "https://en.nankai.edu.cn/", "featured": true, "featuredText": "355"},
+  { "name": "University of Chinese Academy of Sciences (UCAS)", "image": "http://tiny.cc/72xr001", "location": "Beijing", "campuses": ["Yuquanlu", "Zhongguancun", "Yanshihu", "Olympic Village"], "link": "https://english.ucas.ac.cn/", "featured": true, "featuredText": "362"},
 
 
 
