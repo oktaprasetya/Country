@@ -13,7 +13,7 @@
   { "name": "Harbin Institute of Technology", "image": "http://tiny.cc/6dwr001", "location": "Harbin", "campuses": ["Weihai", "Shenzhen"], "link": "http://en.hit.edu.cn/", "featured": true, "featuredText": "247"},
   { "name": "Tianjin University", "image": "http://tiny.cc/kdwr001", "location": "Tianjin", "campuses": ["Weijin", "Beiyang/Yuan", "Binhai"], "link": "https://en.tju.edu.cn/", "featured": true, "featuredText": "257"},
   { "name": "Beijing Institute of Technology", "image": "http://tiny.cc/rdwr001", "location": "Beijing", "campuses": ["Zhongguancun", "Liangxiang", "Xishan"], "link": "https://english.bit.edu.cn/", "featured": true, "featuredText": "259"},
-  { "name": "Sun Yat-sen University", "image": "http://tiny.cc/rdwr001", "location": "Guangzhou", "campuses": ["Zhuhai", "Shenzhen"], "link": "https://www.sysu.edu.cn/sysuen/", "featured": true, "featuredText": "276"},
+  { "name": "Sun Yat-sen University", "image": "http://tiny.cc/oywr001", "location": "Guangzhou", "campuses": ["Zhuhai", "Shenzhen"], "link": "https://www.sysu.edu.cn/sysuen/", "featured": true, "featuredText": "276"},
 
 
 
